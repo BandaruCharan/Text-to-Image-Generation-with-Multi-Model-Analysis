@@ -7,9 +7,9 @@ segmentation using Meta’s Segment Anything Model 2 (SAM2). The system
 should work on either GPU or CPU environments.
 
 # Model References & GitHub Link
-# 1. Stable Diffusion: https://github.com/CompVis/stable-diffusion
-# 2. CLIP: https://github.com/openai/CLIP
-# 3. Segment Anything Model 2: https://github.com/facebookresearch/segment-anything
+1. Stable Diffusion: https://github.com/CompVis/stable-diffusion
+2. CLIP: https://github.com/openai/CLIP
+3. Segment Anything Model 2: https://github.com/facebookresearch/segment-anything
 
 
 # 1. Model Setup
